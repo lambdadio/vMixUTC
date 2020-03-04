@@ -60,10 +60,5 @@ namespace vMixController
 
             e.Handled = true;
         }
-
-        private void MenuItem_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
     }
 }

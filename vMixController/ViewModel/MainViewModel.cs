@@ -653,7 +653,7 @@ namespace vMixController.ViewModel
         /// </summary>
         public const string TitlePropertyName = "Title";
 
-        private string _title = "TEST";
+        private string _title = "vMix Universal Title Controller";
 
         /// <summary>
         /// Sets and gets the Title property.
